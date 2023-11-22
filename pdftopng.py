@@ -52,6 +52,6 @@ def convert_pdf2img(file_relative_path):
 
 
 if __name__ == "__main__":
-    file_relative_path = "朱先陶获奖情况.pdf"
-
+    file_relative_path = "朱先陶获奖情况.pdf" 
+# 这里填写需要把PDF转成PNG图片的文件
     convert_pdf2img(file_relative_path)
