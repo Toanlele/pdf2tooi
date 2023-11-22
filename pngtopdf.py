@@ -29,6 +29,7 @@ def pic2pdf(img_dir, filename):
 
 
 if __name__ == '__main__':
-    img_dir = r"./a朱先陶获奖情况"
+    img_dir = r"./朱先陶获奖情况"
+    #这里填写需要把图片转成PDF文件的目录
     filename = "朱先陶个人简历15736369491.pdf"
     pic2pdf(img_dir, filename)
