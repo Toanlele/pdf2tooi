@@ -1,3 +1,4 @@
+# The development author comes from Zhu Xiantao
 import fitz
 import os
 from PIL import Image
