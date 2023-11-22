@@ -4,6 +4,7 @@
 
 ```pip install PyMuPDF```
 ```pip install -U pyinstaller``` 
+
 PyInstaller 将 Python 应用程序及其所有依赖项捆绑到一个包中。用户无需安装Python解释器或任何模块即可运行打包的应用程序。
 ---
 pdftopng.py表示把pdf转成png图片，而pngtopdf恰恰相反。这里的好处是我们可以把可以复制的pdf文字文档转成图片，然后在逆向还原PDF不可复制版本。
